@@ -4,8 +4,8 @@
 GamePad64/django-prometheus is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
-- [MySQL](http://www.mysql.com) – Databases
 - [Memcached](http://memcached.org/) – Databases
+- [MySQL](http://www.mysql.com) – Databases
 - [Prometheus](http://prometheus.io/) – Monitoring Tools
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
@@ -18,8 +18,8 @@ Full tech stack [here](/techstack.md)
 GamePad64/django-prometheus is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/1040/hDNnpa4a_400x400.jpg' alt='Memcached'/> [Memcached](http://memcached.org/) – Databases
+- <img width='25' height='25' src='https://img.stackshare.io/service/1025/logo-mysql-170x170.png' alt='MySQL'/> [MySQL](http://www.mysql.com) – Databases
 - <img width='25' height='25' src='https://img.stackshare.io/service/2501/default_3cf1b307194b26782be5cb209d30360580ae5b3c.png' alt='Prometheus'/> [Prometheus](http://prometheus.io/) – Monitoring Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
@@ -32,7 +32,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [GamePad64/django-prometheus](https://github.com/GamePad64/django-prometheus)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|01/05/24 <br/>Report generated|
+|8<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
